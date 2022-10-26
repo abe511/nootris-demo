@@ -14,15 +14,15 @@
 
     #menu {
         margin-top: 3rem;
-        font-size: 1rem;
+        font-size: 1.5rem;
     }
 
     #menu-button {
-        margin-right: 1rem;
+        margin-right: 1.5rem;
     }
 
     #menu > a {
-        padding: 0.5rem 0.5rem;
+        padding: 1rem 1rem;
         margin: 0.5rem 0rem;
     }
 
@@ -130,6 +130,5 @@
 
     #order {
         margin: 4rem auto 6rem; 
-        font-size: 1.3rem;
     }
 }

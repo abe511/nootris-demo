@@ -20,7 +20,7 @@
     }
 
     #logo {
-        margin-left: 1rem;
+        margin-left: 2rem;
     }
 
     #menu {
@@ -29,7 +29,7 @@
         list-style-type: none;
         height: 100%;
         padding: 0 0 0 1rem;
-        font-size: 0.8rem;
+        font-size: 1rem;
     }
 
     #menu-button {
@@ -38,7 +38,7 @@
 
     #menu > a {
         display: inline-flex;
-        width: 100%;
+        flex-grow: 1;
         height: 100%;
         align-items: center;
         justify-content: center;
@@ -50,7 +50,7 @@
     }
 
     #basket-button {
-        margin-right: 1rem;
+        margin-right: 2rem;
     }
 
     #quantity {
@@ -179,7 +179,5 @@
 
     #order {
         margin: 4rem auto 6rem; 
-        font-size: 1rem;
     }
-
 }
